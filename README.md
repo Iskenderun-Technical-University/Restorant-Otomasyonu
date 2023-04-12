@@ -12,11 +12,19 @@ Tüm restorantlar için gereksinimler aynı olmayabilir.
 Bu yüzden temel gereksinimleri karşılıyacağız. Bu gereksinimler;
 
 -Masa yönetimi
+
 -Nakit akışı yönetimi
+
 -Mobil Uygulama
+
 -Uzaktan Erişim
+
 -Muhasebe
+
 -Çalışan Planlama
+
 -Sipariş takibi
+
 -Bordro işleme
+
 -Analitik Raporlama
