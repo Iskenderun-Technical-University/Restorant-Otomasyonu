@@ -1,17 +1,17 @@
 # Restorant-Otomasyonu
-Restoran sahhipleri çoğunlukla menü planlama
-Spariş alam, envanter güncelleme gibi günlük
-Gereksimleri karşılarken sorun yaşamaktadır.
+Restorant sahhipleri çoğunlukla menü planlama
+Spariş alımı, envanter güncelleme gibi günlük
+gereksimleri karşılarken sorun yaşamaktadır.
 
 
-İdaal bir sistem sipariş, faturalandırma, muşteri
-Yönetimi, stok, envanter ve raporlama gibi
-İşlemleri saglayabilmelidir bu sistem kullanildikça 
-Hem sayı artırırken hemde müşteri deneyimini iylestirei
+İdaal bir sistem sipariş, faturalandırma, müşteri
+yönetimi, stok, envanter ve raporlama gibi
+işlemleri sağlayabilmelidir.Bu sistem kullanıldıkça 
+hem sayı artırırken hemde müşteri deneyimini iyileştirir.
 
 
-Tüm restoranlar için gereksinimler aynı olmayabilir
-Bu yüzden temel gereksinimleri karşılıycaz bu gereksinimle
+Tüm restorantlar için gereksinimler aynı olmayabilir.
+Bu yüzden temel gereksinimleri karşılıyacağız. Bu gereksinimler;
 -Masa yönetimi
 -Nakit akışı yönetimi
 -Mobil Uygulama
