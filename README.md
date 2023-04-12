@@ -1,6 +1,6 @@
 # Restorant-Otomasyonu
-Restorant sahhipleri çoğunlukla menü planlama
-Spariş alımı, envanter güncelleme gibi günlük
+Restorant sahhipleri çoğunlukla menü planlama,
+sipariş alımı, envanter güncelleme gibi günlük
 gereksimleri karşılarken sorun yaşamaktadır.
 
 İdaal bir sistem sipariş, faturalandırma, müşteri
