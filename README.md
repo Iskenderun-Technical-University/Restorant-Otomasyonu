@@ -1,5 +1,6 @@
 # Restorant-Otomasyonu
 Restorant sahhipleri çoğunlukla menü planlama,
+
 sipariş alımı, envanter güncelleme gibi günlük
 gereksimleri karşılarken sorun yaşamaktadır.
 
