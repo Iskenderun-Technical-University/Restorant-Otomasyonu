@@ -18,4 +18,5 @@ muhasebe,
 çalışan planlama,
 sipariş takibi
 bordro işleme ve
-analitik raporlama.
+analitik arşivleri.
+![IMG-20230411-WA0002](https://user-images.githubusercontent.com/76569762/231764335-9881d76c-415a-47a2-b2a6-fc8854a2ef94.jpg)
